@@ -1,8 +1,8 @@
 # Narni:AI-Powered Study Assistant (RAG Chatbot)
 
-Narni is a document question answering chatbot built with Retrieval Augmented Generation (RAG). Upload your PDF notes and ask questions in plain language — Narni answers using **only** the content of your documents, not generic internet knowledge. Built as a study companion for exam preparation.
+Narni is a document question answering chatbot built with Retrieval Augmented Generation (RAG). Upload your PDF notes and ask questions in plain language , Narni answers using **only** the content of your documents, not generic internet knowledge. Built as a study companion for exam preparation.
 
-The entire pipeline runs **locally and free**,no paid API keys, no per-query costs — using open-source embedding and language models.
+The entire pipeline runs **locally and free**,no paid API keys, no per query costs using open source embedding and language models.
 
 ## Demo
 
@@ -76,4 +76,4 @@ The app opens in your browser. Upload a PDF, type a question, and Narni answers 
 
 ---
 
-Built as a hands-on project to learn RAG, vector search, and LLM application development.
+Built as a hands on project to learn RAG, vector search, and LLM application development.
